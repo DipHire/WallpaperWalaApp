@@ -1,4 +1,4 @@
-#WallpaperWalaApp
+# WallpaperWalaApp
 A WallpaperWalaApp is a Simple Wallpaper app🏞️ developed in Flutter 💙 , with responsive UI✨ for Mobile📱 and Tablet 💻.
 
 - Fetch data from an API with flutter.
