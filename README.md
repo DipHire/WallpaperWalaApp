@@ -26,5 +26,4 @@ Pexels API Key ([Link](https://www.pexels.com/api "Link"))
 
 
 ## App Link
-[![WallpaperWalaApp](https://img.shields.io/badge/Link-WallpaperApp?style=flat&logo=Android&color=FFCC00)](https://drive.google.com/file/d/1Kj1G20F6byO1n8EOpAgu5sVorDyurjx6/view?usp=sharing)
-
+[![WallpaperWalaApp](https://img.shields.io/badge/Link-WallpaperApp-informational?style=flat&logo=Android&color=ffcc00)](https://drive.google.com/file/d/1Kj1G20F6byO1n8EOpAgu5sVorDyurjx6/view?usp=sharing)
