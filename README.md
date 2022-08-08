@@ -1,6 +1,13 @@
 #WallpaperWalaApp
 A WallpaperWalaApp is a Simple Wallpaper app🏞️ developed in Flutter 💙 , with responsive UI✨ for Mobile📱 and Tablet 💻.
 
+- Fetch data from an API with flutter.
+- useState in a flutter app.
+- pass down data in flutter widgets.
+- show a grid view.
+- Using Hero Animation.
+- Save the image to local storage (Gallery) for both Android And IOS.
+
 ### API
 
 Pexels API Key ([Link](https://www.pexels.com/api "Link"))
