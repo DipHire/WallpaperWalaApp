@@ -1,4 +1,6 @@
 # WallpaperWalaApp
+![Banner](https://raw.githubusercontent.com/DipHire/WallpaperWalaApp/master/Banner.png?token=GHSAT0AAAAAABVZ5UFXGVLVMEM7KSNIWQUGYXRKEJQ)
+
 A WallpaperWalaApp is a Simple Wallpaper app🏞️ developed in Flutter 💙 , with responsive UI✨ for Mobile📱 and Tablet 💻.
 
 - Fetch data from an API with flutter.
