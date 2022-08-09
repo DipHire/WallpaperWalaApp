@@ -25,5 +25,9 @@ Pexels API Key ([Link](https://www.pexels.com/api "Link"))
 -  url_launcher_web: ^2.0.13 ([Link](https://pub.dev/packages/url_launcher_web "Link"))
 
 
-## App Link
-[![WallpaperWalaApp](https://img.shields.io/badge/Link-WallpaperApp-informational?style=flat&logo=Android&color=ffcc00)](https://drive.google.com/file/d/1Kj1G20F6byO1n8EOpAgu5sVorDyurjx6/view?usp=sharing)
+## App 
+[![WallpaperWalaApp](https://img.shields.io/badge/Apk-WallpaperApp-informational?style=flat&logo=Android&color=ffcc00)](https://drive.google.com/file/d/1Kj1G20F6byO1n8EOpAgu5sVorDyurjx6/view?usp=sharing)
+
+
+## Web Demo
+[![WallpaperWalaApp](https://img.shields.io/badge/Web-WallpaperApp-informational?style=flat&logo=flutter&color=673ab7)](https://diphire.github.io/wallpaperappp/#/)
