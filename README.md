@@ -1,5 +1,5 @@
 # WallpaperWalaApp
-![Banner](https://raw.githubusercontent.com/DipHire/WallpaperWalaApp/master/Banner.png?token=GHSAT0AAAAAABVZ5UFXGVLVMEM7KSNIWQUGYXRKEJQ)
+![Banner](https://raw.githubusercontent.com/DipHire/WallpaperWalaApp/master/banner%20(2).png?token=GHSAT0AAAAAABVZ5UFW4VJMNZKXBKHUDOVWYXSDVZA)
 
 A WallpaperWalaApp is a Simple Wallpaper app🏞️ developed in Flutter 💙 , with responsive UI✨ for Mobile📱 and Tablet 💻.
 
